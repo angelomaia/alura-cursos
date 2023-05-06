@@ -2,7 +2,7 @@
 
 ### Bem-vindo ao meu repositório de materiais de estudo!
 
-Este repositório foi criado para armazenar todos os materiais de estudo dos cursos da Alura. Aqui você encontrará códigos, anotações e projetos relacionados aos temas abordados no curso.
+Este repositório foi criado para armazenar todos os materiais de estudo dos meus cursos da Alura. Aqui você encontrará códigos, anotações e projetos relacionados aos temas abordados no curso.
 
 #### Como usar:
 
