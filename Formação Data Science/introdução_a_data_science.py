@@ -67,3 +67,17 @@ sns.distplot(medias_por_filme)
 plt.hist(medias_por_filme)
 plt.title("Histograma das médias dos filmes")
 
+tmdb = pd.read_csv("tmdb_5000_movies.csv")
+tmdb.head()
+
+tmdb.original_language.unique() # categorica nominal
+
+# primeiro grau
+# segundo grau
+# terceiro grau
+# 1 grau < 2 grau < 3 grau # categorica ordinal
+
+# budget => orcamento => quantitativa continuo
+
+# quantidade de votos => 1, 2, 3, 4, nao tem 2.5 votos.
+# ntoas do movielens => 0.5, 1, 1.5, ... ,5 nao tem 2.7
